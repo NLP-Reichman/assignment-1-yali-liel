@@ -3,17 +3,21 @@
     "vocab_length": 1804
   },
   "test_lm": {
-    "english_2_gram_length": 749,
-    "english_3_gram_length": 8240,
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
     "french_3_gram_length": 8286,
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_en": 26.485626569885913,
+    "en_en": 26.485519483320207,
     "en_fr": 57.10866458156105,
     "en_tl": 68.60837729510644,
     "en_nl": 61.08220241430604
   },
-  "test_match": "NameError(\"name 'match' is not defined\")",
+  "test_match": {
+    "en_en_3": 26.485519483320207,
+    "en_tl_3": 68.60837729510644,
+    "en_nl_3": 61.08220241430604
+  },
   "test_generate": "KeyError('I')"
 }
