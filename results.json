@@ -19,5 +19,14 @@
     "en_tl_3": 68.60837729510644,
     "en_nl_3": 61.08220241430604
   },
-  "test_generate": "KeyError('I')"
+  "test_generate": {
+    "english_1_gram": "tpgLpC eLhF nostTloI",
+    "english_2_gram": "ulpeginShmee bie ae",
+    "english_3_gram": "t: Lynmkm ways.",
+    "english_4_gram": "gifts @OndMade a no",
+    "spanish_2_gram": "al\u00edodenyegucosie ew",
+    "spanish_3_gram": "orbe",
+    "french_2_gram": "/opapropades tprisl",
+    "french_3_gram": "tune"
+  }
 }
